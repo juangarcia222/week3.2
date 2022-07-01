@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient(90deg, white, #2eacd4);
+    font-family: 'Times New Roman', Times, serif;
+}
+#parafunc{
+    color: blue;
+}
+#parafunc2{
+    color: aqua;
+    font-style: oblique;
+
+
+button{
+width: 100px;
+height: 30px;
+border-radius: 5px;
+background-color: white; 
+border-color: skyblue;
+}
+
+    
+    
+    
+}
